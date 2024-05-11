@@ -1,6 +1,6 @@
 
 
-Announcing our graduation project at the Route:Movie App! 🎓🎬🚀
+
 
 What's special about our app? It's a comprehensive solution that seamlessly combines REST API integration for fetching movies, Firebase for secure user data storage, and an intuitive search feature for finding your favorite films. Let's dive into the key features:
 
